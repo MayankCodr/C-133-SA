@@ -1,0 +1,28 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+box-shadow: 10px 10px 5px rgb(33, 32, 32);
+}
+
+
+a{
+    
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+    background: rgb(204,202,56);
+background: linear-gradient(90deg, rgba(204,202,56,0.9221813725490196) 23%, rgba(162,16,41,1) 40%, rgba(244,195,199,1) 100%);
+    color: aliceblue;
+}
+a:hover{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    font-size: 25px;
+}
